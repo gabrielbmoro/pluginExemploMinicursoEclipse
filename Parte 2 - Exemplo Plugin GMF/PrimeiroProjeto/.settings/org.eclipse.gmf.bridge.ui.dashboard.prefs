@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+gmf_dashboard/domainGenerationModel=platform\:/resource/PrimeiroProjeto/model/My.genmodel
+gmf_dashboard/domainModel=platform\:/resource/PrimeiroProjeto/model/My.ecore
+gmf_dashboard/graphicalDefinitionModel=platform\:/resource/PrimeiroProjeto/model/My.gmfgraph
+gmf_dashboard/mappingModel=platform\:/resource/PrimeiroProjeto/model/My.gmfmap
+gmf_dashboard/toolingDefinitionModel=platform\:/resource/PrimeiroProjeto/model/My.gmftool

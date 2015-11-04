@@ -1,0 +1,7 @@
+# Tracing options for the PrimeiroProjeto.diagram plug-in
+
+# Common issues
+PrimeiroProjeto.diagram/debug=false
+
+# Visual IDs
+PrimeiroProjeto.diagram/debug/visualID=false
